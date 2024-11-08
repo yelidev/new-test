@@ -1,0 +1,8 @@
+{
+  "name": "new-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:jorgeadev/new-test.git",
+  "author": "Jorge Gomez <jorgealbertogomezgomez77@gmail.com>",
+  "license": "MIT"
+}
